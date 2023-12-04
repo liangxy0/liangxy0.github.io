@@ -5,9 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-__Co-Instructor__
-- [2021] ENERGY 153/253: Carbon Capture and Sequestration
-- [2020] ENERGY 153/253: Carbon Capture and Sequestration
+__Instructor of Record__
+*The Ohio State University*
+- GEOG 5210 Fundamentals of Geographic Information Systems
 
 __TA__
-- [2019] ENERGY 153/253: Carbon Capture and Sequestration
+*The Ohio State University*
+- GEOG 5200 Cartography & Map Design
+- GEOG 5201 Geovisualization
+- GEOG 5222 GIS Algorithms and Programming
+- GEOG 5225 Geographic Applications of Remote Sensing
+- GEOG 5226 Spatial Simulation and Modeling in GIS
+
+__Guest Lecturer__
+- BIO 398 Arctic Ecology (Department of Biology, Macalester College)
