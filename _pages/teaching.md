@@ -7,7 +7,7 @@ author_profile: true
 
 __Instructor of Record__ <br>
 *The Ohio State University* 
-- GEOG 5210 Fundamentals of Geographic Information Systems <br>
+- GEOG 5210 Fundamentals of Geographic Information Systems <br> <br>
 
 __TA__ <br>
 *The Ohio State University* 
