@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-__Instructor of Record__
-*The Ohio State University*
+__Instructor of Record__ 
+*The Ohio State University* <br>
 - GEOG 5210 Fundamentals of Geographic Information Systems
 
 __TA__
-*The Ohio State University*
+*The Ohio State University* <br>
 - GEOG 5200 Cartography & Map Design
 - GEOG 5201 Geovisualization
 - GEOG 5222 GIS Algorithms and Programming
